@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("FullCycle Rocks")
+	fmt.Println("FullCycle Rocks!")
 }
